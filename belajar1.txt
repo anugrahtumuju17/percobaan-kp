@@ -1,3 +1,6 @@
 hari pertama 
 - perkenalan dan mendapat pembimbing
 - mempelajari software GIT
+
+hari kedua
+- masih mempelajari software GIT
